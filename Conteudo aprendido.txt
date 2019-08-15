@@ -1,0 +1,10 @@
+Scrum é um framework para projetos complexos.
+Uma sprint é uma reunião de pessoas envolvidas num projeto para promover um desenvolvimento mais focalizado do projeto. 
+Sprints geralmente duram de uma a três semanas. 
+Sprints têm se tornado eventos populares em alguns projetos open-source.
+
+O Sprint Backlog é uma lista de tarefas que o Scrum Team se compromete a 
+fazer em um Sprint. Os itens do Sprint Backlog são extraídos do Product Backlog, 
+pela equipe, com base nas prioridades definidas pelo 
+Product Owner e a percepção da equipe sobre o tempo que será necessário para 
+completar as várias funcionalidades.
