@@ -4,3 +4,23 @@ Aula 02 15/08/19
 Para a primeira release validar arquitetura
 Por que da sprint 7 para frente basicamente é desenvolvimento.
 
+Aula 03 20/08/19
+
+O software passa por estapas(processos)
+A primeira é a de levantamento de requisitos (estabelecer as necessidades dos stakeholders)
+stakeholders são as pessoas interessadas no processo, as que estão participando do projeto de alguma forma
+
+segunda é o design
+a arquitetura do software é como as partes das classes se comunicam
+pensar numa camada mais abstrata
+como os dados serão estruturados
+(todo momento antes de pensar em codar)
+
+terceira implementação
+a preocupação com a redução da complexidade é comum nessa frase
+
+quarta é verificação e validação
+construimos o sistema correto?
+construimos o sistema corretamente?
+
+e ultima é a manutenção (costuma precisar de muito mais custo do que a a da implementação inicial)
